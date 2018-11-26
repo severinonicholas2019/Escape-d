@@ -1,0 +1,144 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=58942:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/nicholasseverino/IdeaProjects/Escape'd/out/production/Escape'd Main
+You find yourself in a large foyer. There is a door to the north. To the west is a bench
+against the wall. To the east is a chest on the floor. In the center of the room is a large
+candle. The candle is unlit.
+You have 30 turns to escape.
+
+>>look
+
+You find yourself in a large foyer. There is a door to the north. To the west is a bench
+against the wall. To the east is a chest on the floor. In the center of the room is a large
+candle. The candle is unlit.
+
+You have 29 turns to escape.
+
+>>look candle
+
+The candle in the center of the room is not lit.
+You have 28 turns to escape.
+
+>>look bench
+
+There is a bench on the western wall. There is a small note here.
+You have 27 turns to escape.
+
+>>read note
+
+The note is written on a piece of embossed vellum paper. In script writing you can make out
+the phrase 'May my light show you the way.'
+You have 26 turns to escape.
+
+>>look chest
+
+You see a chest. It is closed. It doesn't appear to be locked.
+You have 25 turns to escape.
+
+>>open chest
+
+You open the chest. There is a box of matches here.
+You have 24 turns to escape.
+
+>>get matches
+
+You take the box of matches out of the chest.
+You have 23 turns to escape.
+
+>>light candle
+
+You light the candle, and fierce wind blows through the room, extinguishing the match in your
+hand, but making the candle burn brighter. You hear a loud metal grinding sound from the
+north.
+You have 22 turns to escape.
+
+>>look door
+
+The door is unlocked, but closed.
+You have 21 turns to escape.
+
+>>open door
+
+The north door is open.
+You have 20 turns to escape.
+
+>>go north
+
+You leave the foyer, the door behind you closes with a loud slam, and you hear the locking
+mechanism relock the door. You cannot return to the foyer.
+  
+You now find yourself in a library full of shelves of books. In the center of the room is a
+desk. On the desk is a pen and a scroll. There is a door to the north.
+
+You have 19 turns to escape.
+
+>>read scroll
+
+The scroll says, 'Share your story.'
+
+You have 18 turns to escape.
+
+>>get pen
+
+You have acquired the pen.
+
+You have 17 turns to escape.
+
+>>look shelf
+
+There is a book titled 'The Autobiography of ...' with the rest of the title empty.
+
+You have 16 turns to escape.
+
+>>write name
+
+You have completed the autobiography You heard a metal grinding sound from the north.
+
+You have 15 turns to escape.
+
+>>look door
+
+The door is unlocked, but closed.
+You have 14 turns to escape.
+
+>>open door
+
+The north door is open.
+You have 13 turns to escape.
+
+>>go north
+
+You have left the library. On your way out, the door slammed and locked. 
+You are now in the conservatory and cannot return to the library. In the conservatory there are a variety of instruments. 
+ A drum, trumpet, and piano. There is a sheet of music on a stand.
+You have 12 turns to escape.
+
+>>read sheet
+
+The music sheet is a Trumpet Solo
+
+You have 11 turns to escape.
+
+>>get drums
+
+The drums are broken and have no stick... try again!
+
+You have 10 turns to escape.
+
+>>get piano
+
+The piano is broken... try again!
+
+You have 9 turns to escape.
+
+>>get trumpet
+
+Trumpet is in an optimal positition for playing
+
+You have 8 turns to escape.
+
+>>play trumpet
+
+A sweet melody comes out and suddenly the grinding metal sound halts.
+A door opens, and you escape with a sweet saxaphone to accompany you on your journey home
+Congratulations! You have completed the escape room challenge successfully in with 7 to spare.
+
+Process finished with exit code 0
